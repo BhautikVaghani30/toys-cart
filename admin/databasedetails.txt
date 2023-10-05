@@ -1,0 +1,6 @@
+Tables 
+Database Name: ecoomerce
+1.admin Table(admin)::admin_id,admin_name,email_id,pwd
+2.user Table(users)::user_id,user_name,email,pwd,phone,address
+3.Product Table(product)::prod_id,item,desc,price,picture
+4.Order Table(order)::order_id,user_id,product_id,item_name,picture,amount,total_amount,address,created_at,qu
